@@ -1,1 +1,1 @@
-console.log ("Halloj, World!")
+console.log ("Halloj, Världen!")
